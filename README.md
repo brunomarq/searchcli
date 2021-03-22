@@ -57,7 +57,7 @@ shell:> load-database /mydata
 
 2. List the available fiels in the entity type you want to perform the search on. For example,
 ```
-shell:> fields organizations
+shell:> fields organization
 ```
 
 3. Perform the search. For example:
