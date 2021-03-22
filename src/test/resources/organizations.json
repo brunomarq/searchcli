@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 103,
+    "url": "http://initech.zendesk.com/api/v2/organizations/103.json",
+    "external_id": "e73240f3-8ecf-411d-ad0d-80ca8a84053d",
+    "name": "Plasmos",
+    "domain_names": [
+      "comvex.com",
+      "automon.com",
+      "verbus.com",
+      "gogol.com"
+    ],
+    "created_at": "2016-05-28T04:40:37 -10:00",
+    "details": "Non profit",
+    "shared_tickets": true,
+    "tags": [
+      "Parrish",
+      "Lindsay",
+      "Armstrong",
+      "Vaughn"
+    ]
+  },
+  {
+    "_id": 104,
+    "url": "http://initech.zendesk.com/api/v2/organizations/104.json",
+    "external_id": "f6eb60ad-fe37-4a45-9689-b32031399f93",
+    "name": "Xylar",
+    "domain_names": [
+      "anixang.com",
+      "exovent.com",
+      "photobin.com",
+      "marqet.com"
+    ],
+    "created_at": "2016-03-21T10:11:18 -11:00",
+    "details": "",
+    "shared_tickets": false,
+    "tags": [
+      "Hendricks",
+      "Mclaughlin",
+      "Stephens",
+      "Garner"
+    ]
+  }
+]
