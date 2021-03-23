@@ -46,7 +46,7 @@ After launching it, you should see a `shell:>` prompt waiting for your command.
 
 1. Load the organization, ticket and user json files and prepare the inverted indexes.
 ```
-shell:> load-databases
+shell:> load-database
 ```
 Notice, that the other commands (`search` and `field`) will not be available until you run the `load-database` command successfuly.
 
